@@ -54,7 +54,7 @@ Nesse projeto foi "containerizado" as aplicações de frontend, backend e testes
 
 - [x] 10. Gere uma build a partir do Dockerfile do `front-end` do `todo-app` nomeando a imagem para `todofrontend`;
 
-- [x] 11.Gere uma build a partir do Dockerfile dos `testes` do `todo-app` nomeando a imagem para `todotests`.
+- [x] 11. Gere uma build a partir do Dockerfile dos `testes` do `todo-app` nomeando a imagem para `todotests`.
 
 ### Requisito bônus:
 
