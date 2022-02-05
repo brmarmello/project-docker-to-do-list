@@ -30,7 +30,7 @@ Nesse projeto foi "containerizado" as aplicações de frontend, backend e testes
 
 ## 📝 Requisitos do projeto
 
-#### Comandos docker:
+### Comandos docker:
 
 - [x] 1. Crie um novo container de modo interativo sem roda-lo nomeando-o como `01container` e utilizando a imagem `alpine` usando a versão `3.12`;
 
@@ -48,7 +48,7 @@ Nesse projeto foi "containerizado" as aplicações de frontend, backend e testes
 
 - [x] 8. Pare o container `02images` que está em andamento.
 
-#### Dockerfile
+### Dockerfile
 
 - [x] 9. Gere uma build a partir do Dockerfile do `back-end` do `todo-app` nomeando a imagem para `todobackend`;
 
@@ -56,7 +56,7 @@ Nesse projeto foi "containerizado" as aplicações de frontend, backend e testes
 
 - [x] 11.Gere uma build a partir do Dockerfile dos `testes` do `todo-app` nomeando a imagem para `todotests`.
 
-#### Requisito bônus:
+### Requisito bônus:
 
 - [x] 12. Suba uma orquestração em segundo plano com o `docker-compose` de forma que `backend`, `frontend` e `tests` consigam se comunicar.
 
